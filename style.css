@@ -1,7 +1,10 @@
 body{
 
-    background-image: url(/images/bg1.jpg);
+    background-image: url(/images/bg.jpg);
    color: azure;
    font-family: comic sans Ms , Arial, Helvetica, sans-serif;
 }
 
+a{
+    color: chartreuse;
+}
