@@ -6,5 +6,36 @@ body{
 }
 
 a{
-    color: chartreuse;
+    color: cyan;
+    text-decoration: none;
+}
+
+.co{
+
+    margin-top: 10%;
+    
+}
+.co2{
+
+    margin-top: 5%;
+}
+.main{
+
+position: absolute;
+    left: 500px;
+}
+.cat{
+
+    position: absolute;
+    width: 300px;
+    background: #13151d;
+    left: 0;
+    height: 100%;
+    
+}
+.cat li{
+
+    list-style: none;
+    margin-top: 10%;
+
 }
