@@ -3,6 +3,14 @@ body{
     background-image: url(/images/bg.jpg);
    color: azure;
    font-family: comic sans Ms , Arial, Helvetica, sans-serif;
+
+}
+h1{
+
+    color: rgb(202, 155, 94);
+}
+img{
+    margin-top: 10px;
 }
 
 a{
@@ -20,22 +28,62 @@ a{
     margin-top: 5%;
 }
 .main{
-
+padding: 30px;
 position: absolute;
-    left: 500px;
+left: 520px;
+
+}
+
+.intro{
+
+font-size: x-large;
+padding: 30px;
+
 }
 .cat{
 
     position: absolute;
     width: 300px;
     background: #13151d;
-    left: 0;
-    height: 100%;
+    float: left;
+    height: 120%;
     
 }
 .cat li{
-
+        
     list-style: none;
     margin-top: 10%;
+
+}
+
+.flex1{
+
+    display: flex;
+    font-size: large;
+    padding:  20px;
+
+
+}
+.flex2{
+    display: flex;
+    font-size: large;
+    padding:  20px;
+
+
+}
+.c{
+margin: 20px;
+
+}
+.cpp{
+    margin: 20px;
+
+}
+.html{
+    margin: 20px;
+
+}
+.css{
+    margin: 20px;
 
 }
